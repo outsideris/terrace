@@ -1,4 +1,7 @@
 .envrc
+__pycache__/
+.eggs/
+*.egg-info/
 
 # pyenv
 .python-version
