@@ -2,6 +2,8 @@
 __pycache__/
 .eggs/
 *.egg-info/
+venv/
+dist/
 
 # pyenv
 .python-version
