@@ -1,3 +1,5 @@
+.idea/
+
 .envrc
 __pycache__/
 .eggs/
